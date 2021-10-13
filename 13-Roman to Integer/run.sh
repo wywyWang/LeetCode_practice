@@ -1,0 +1,5 @@
+python solution.py --s "III"
+python solution.py --s "IV"
+python solution.py --s "IX"
+python solution.py --s "LVIII"
+python solution.py --s "MCMXCIV"

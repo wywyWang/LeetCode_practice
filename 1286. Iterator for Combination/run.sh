@@ -1,0 +1,1 @@
+python solution.py --characters "abc" --combinationLength 2

@@ -1,0 +1,7 @@
+python solution.py --s "()"
+python solution.py --s "()[]{}"
+python solution.py --s "(]"
+python solution.py --s ")("
+python solution.py --s "([)]"
+python solution.py --s "{[]}"
+python solution.py --s "]"

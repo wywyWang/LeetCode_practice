@@ -1,0 +1,1 @@
+python solution.py --s h e l l o

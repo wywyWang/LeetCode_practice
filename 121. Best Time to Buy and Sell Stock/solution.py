@@ -11,7 +11,6 @@ class Solution:
                 buy = prices[i]
             else:
                 # larger profit -> sell
-                if prices[i] - buy > ans:
-                    ans = prices[i] - buy
+                ans = max(ans, prices[i] - buy)
 
         return ans
